@@ -299,5 +299,6 @@ http://moode.local/setup_3rdparty_plexamp.txt
 ## 📚 RESOURCES
 
 - Moode doc : https://github.com/moode-player/docs/blob/main/setup_guide.md
-- Plexamp - physical volume : https://forums.plex.tv/t/physical-volume-controls-are-a-must-how-to-add-to-plexamp/916914/4
 - MP3 sound effects : https://pixabay.com/sound-effects
+- Plexamp - physical volume : https://forums.plex.tv/t/physical-volume-controls-are-a-must-how-to-add-to-plexamp/916914/4
+- Tidal connect instruction (not tested yet): https://linuxaudiofoundation.org/musiclounge-tidal-connect-installation/
